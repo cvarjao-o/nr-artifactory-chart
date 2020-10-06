@@ -1,0 +1,1 @@
+# nr-artifactory-chart
